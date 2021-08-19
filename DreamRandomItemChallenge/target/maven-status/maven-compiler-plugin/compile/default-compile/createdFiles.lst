@@ -1,0 +1,5 @@
+com\jake\dreamrandomitemchallenge\DreamRandomItemChallenge.class
+com\jake\dreamrandomitemchallenge\PickupListener.class
+com\jake\dreamrandomitemchallenge\BlockBreakListener.class
+com\jake\dreamrandomitemchallenge\StartCommand.class
+com\jake\dreamrandomitemchallenge\GiveItems.class

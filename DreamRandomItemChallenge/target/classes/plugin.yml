@@ -1,0 +1,7 @@
+name: DreamRandomItemChallenge
+version: 1.0
+main: com.jake.dreamrandomitemchallenge.DreamRandomItemChallenge
+api-version: 1.17
+authors: [ thatispog ]
+commands:
+  randomitem:
