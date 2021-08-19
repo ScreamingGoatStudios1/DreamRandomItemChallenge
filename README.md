@@ -3,4 +3,4 @@ A recreation of Dream's random item challenge. Every 2 minutes you will get stac
 
 Download the plugin: https://www.spigotmc.org/resources/dreams-random-item-challenge-recreation.93624/
 
-Join my discord server: Join my discord server: https://discord.gg/p9ahZ7qymM
+Join my discord server: https://discord.gg/p9ahZ7qymM
